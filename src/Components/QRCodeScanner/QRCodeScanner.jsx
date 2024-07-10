@@ -27,7 +27,7 @@ const QRCodeScanner = () => {
         </div>
       
 
-        <p className="result">{scan}12342142</p>
+        <p className="result">{scan}</p>
     </div>
   )
 }
