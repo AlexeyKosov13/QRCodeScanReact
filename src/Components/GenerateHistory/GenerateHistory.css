@@ -1,0 +1,9 @@
+.item {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.qrcode {
+    width: 50px;
+}
